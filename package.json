@@ -1,0 +1,7 @@
+{
+  "name": "pr-executor",
+  "version": "1.0.0",
+  "description": "Run Claude Code non-interactively against GitHub PR bodies",
+  "main": "prExecutor.js",
+  "license": "MIT"
+}
