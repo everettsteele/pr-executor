@@ -48,4 +48,4 @@ cron.schedule('5 * * * *', () => executePRs());
 
 ## Origin
 
-Built at Meridian. [Read how it works](https://neverstill.llc/tools).
+Built at Meridian. [Read how it works](https://meridianbasehq.com).
